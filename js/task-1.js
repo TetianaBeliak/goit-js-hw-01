@@ -11,5 +11,3 @@ console.log(makeTransaction(10, 500));
 
 
 
-
-
